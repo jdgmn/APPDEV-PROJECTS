@@ -1,5 +1,5 @@
 const colors = ["green", "red", "rgba(133, 122, 200)", "f15025", "blue", "yellow"]
-const quotes = ["1The more we value things outside our control, the less control we have.", 
+const quotes = ["The more we value things outside our control, the less control we have.", 
 "You have power over your mind, not outside events. Realize this, and you will find strength.", 
 "We suffer more often in imagination than in reality.", 
 "Ignorance is the cause of fear.", 
