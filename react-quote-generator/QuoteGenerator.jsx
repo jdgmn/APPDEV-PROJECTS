@@ -29,7 +29,8 @@ export default function QuoteGenerator() {
     }
 
     function random() {
-        let x
+        let x = 0;
+        let randNum = 0;
         do {
             x = Math.floor(Math.random() * (quoteList.length - 1))
         } while (x == randNum)
