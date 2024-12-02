@@ -1,0 +1,12 @@
+.App {
+    background-color: whitesmoke;
+    padding-top: 4rem;
+    min-height: 100vh;
+}
+.navbar {
+    background-color: #CC0000 !important;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
